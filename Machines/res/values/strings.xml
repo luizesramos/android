@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Machines</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="d_chest">This is a treasure chest</string>
+    <string name="d_r0">This is robot zero</string>
+    <string name="d_r1">This is robot one</string>
+    <string name="d_r2">This is robot two</string>
+    <string name="d_r3">This is robot three</string>
+    <string name="d_wiki">A link to wikipedia</string>
+    <string name="d_help">A link to wikipedia</string>
+    <string name="score">Score:</string>
+    <string name="steps">Left:</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_wikipedia">Wikipedia</string>
+    <string name="lives">Lives:</string>
+    <string name="hint">Click on the treasure chest to start.</string>
+
+</resources>
