@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cats &amp; Cups</string>
+    <string name="instructions">Guess which cup hides a cat!</string>
+
+    <string name="lives">Lives&#58; %1$d</string>
+    <string name="score">Score&#58; %1$d</string>
+
+    <string name="newGame">Let\'s do it!</string>
+    <string name="quit">Quit</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="cup1_cont_desc">First cup</string>
+    <string name="cup2_cont_desc">Second cup</string>
+    <string name="cup3_cont_desc">Third cup</string>
+
+    <string name="gameOver">Out of catnip!</string>
+    <string name="game_over_message">Your final score is %1$d. Play again?"</string>
+
+</resources>
